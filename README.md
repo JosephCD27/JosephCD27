@@ -32,11 +32,11 @@ Here are some ideas to get you started:
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=docker,kubernetes,gcp,terraform,jenkins,githubactions,gitlarun"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=docker,githubactions"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Automated test:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=selenium,jest,pytest,phpunit"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=selenium"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
@@ -45,10 +45,6 @@ Here are some ideas to get you started:
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Ides:</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=vscode,visualstudio,sublime"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=ngrok,selenium"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>

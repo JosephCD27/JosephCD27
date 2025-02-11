@@ -4,11 +4,10 @@
 
 ### Hello 🌎, I'm JosephCD27
 
-With over 8 years of experience as a Software Engineer, I'm on a mission to create technology solutions that connect the digital world with real life! I have the power to develop in frontend, backend, which allows me to bring my magic to both revolutionary startups and giant enterprise projects. I'm passionate about writing clean, maintainable code and design with users in mind, thriving in environments that love innovation and continuous professional growth. Let's make technology shine! 🚀
+I am a junior developer with experience creating, analyzing, testing and maintaining software features. Worked in multidisciplinary teams where my role has ranged from development, testing and even implementation of solutions, ensuring that the software runs smoothly and meets customer expectations. My experience includes the implementation of robust functionalities and continuous support during the testing and production phase, to ensure optimal performance. 🚀
 
-
-  - 🔭 I’m currently working on upgrading java applications from jdk 8 to 21.
-  - 🌱 I’m currently learning; Junit, Jakarta, Spring Security, Spring Cloud.
+  - 🔭 I usually expand my knowledge and improve my programming logic.
+  - 🌱 I focus on developments with languages ​​such as: Python, JavaScript, php and recently learning C#
   - ⚡ Fun fact: I look like a hobbit.
 
 <hr>
@@ -16,9 +15,9 @@ With over 8 years of experience as a Software Engineer, I'm on a mission to crea
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="left">
-<a href="https://linkedin.com/in/AVS1508"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/josephscj/"><img src="https://img.shields.io/badge/-@josephscj-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.instagram.com/joseph_cj27/"><img src="https://img.shields.io/badge/-@joseph_cj27-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/josephestiven.camachojimenez"><img src="https://img.shields.io/badge/-@joseph_camacho-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 
 <hr>
@@ -34,6 +33,13 @@ With over 8 years of experience as a Software Engineer, I'm on a mission to crea
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JosephCD27&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="JosephCD27"/>
   </a>
 </div> -->
+
+<p align="center">
+  <a href="https://github.com/JosephCD27">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JosephCD27&&theme=tokyonight" alt="JosephCD27" />
+  </a>
+</p>
+
 <hr>
 <h3 align="left">Languages and Tools:</h3>
 <table align="center">

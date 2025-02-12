@@ -24,7 +24,7 @@ I am a junior developer with experience creating, analyzing, testing and maintai
 
 <h3 align="left">Activity:</h3>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JosephCD27&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JosephCD27&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/JosephCD27/JosephCD27)
 
 
 <!-- <div align="center">
@@ -45,34 +45,34 @@ I am a junior developer with experience creating, analyzing, testing and maintai
 <table align="center">
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=php,cs,python,laravel,nginx,vite,django"/></td>
+        <td><a href="https://github.com/JosephCD27"><img height="40" src="https://skillicons.dev/icons?i=php,cs,python,laravel,nginx,vite,django"/></a></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=react,bootstrap,html,css,js,figma"/></td>
+        <td><a href="https://github.com/JosephCD27"><img height="40" src="https://skillicons.dev/icons?i=react,bootstrap,html,css,js,figma"/></a></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql"/></td>
+        <td><a href="https://github.com/JosephCD27"><img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql"/></a></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=docker,githubactions"/></td>
+        <td><a href="https://github.com/JosephCD27"><img height="40" src="https://skillicons.dev/icons?i=docker,githubactions"/></a></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Automated test:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=selenium"/></td>
+        <td><a href="https://github.com/JosephCD27"><img height="40" src="https://skillicons.dev/icons?i=selenium"/></a></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=git,github,gitlab"/></td>
+        <td><a href="https://github.com/JosephCD27"><img height="40" src="https://skillicons.dev/icons?i=git,github,gitlab"/></a></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Ides:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,visualstudio,sublime"/></td>
+        <td><a href="https://github.com/JosephCD27"><img height="40" src="https://skillicons.dev/icons?i=vscode,visualstudio,sublime"/></a></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=windows"/></td>
+        <td><a href="https://github.com/JosephCD27"><img height="40" src="https://skillicons.dev/icons?i=windows"/></a></td>
     </tr>
 </table>
